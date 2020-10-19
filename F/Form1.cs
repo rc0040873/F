@@ -56,6 +56,7 @@ namespace F
         {
             try
             {
+                //
                 double Force = double.Parse(textBox2.Text);
                 double Angle = double.Parse(textBox1.Text);
 
